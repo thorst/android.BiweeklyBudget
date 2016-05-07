@@ -1,5 +1,19 @@
 # android.BiweeklyBudget
 
+## About
+
+I just want a simple and clean app to keep track of my budget. I get paid every other week and allot myself X amount of dollars. I use cash and credit throughout the two weeks and need a ledger to track all of those expenses.
+
+You could also use this app if you have several savings accounts, such as car fund, college fund, etc, and want to keep track of those accounts.
+
+Some purposefully absent features:
+*  No categories or unneeded data entry
+*  No charts or pretty but useless tools to waste screenspace
+*  No ads to annoy you
+*  No required access to your phone
+*  No required access to the internet
+*  No access to your online banks or credit cards
+
 ## Purchase
 
 Please consider purchasing. It will only be .99, support me, unlock the below features, and prioritize your feature requests.
