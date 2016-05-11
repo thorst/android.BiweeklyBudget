@@ -29,6 +29,8 @@ Please consider purchasing. It will only be .99, support me, unlock the below fe
 | Good Feeling From Supporting A Developer | No | Yes |
 
 ## Change Log
+*  0.1.1
+  *  Apply upgrade without restarting app
 *  0.1.0
   *  Add/Edit/Delete budgets/transactions
   *  Red negative values
